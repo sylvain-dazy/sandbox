@@ -1,0 +1,12 @@
+---------
+| array |
+---------
+
+find minimum:
+*************
+
+Given an array of length n, min() return a list of index (from 0 to n - 1) corresponding to the minimums of the array.
+
+e.g. :
+v = [5 ; 5 ; 8 ; 3 ; 4 ; 9 ; 3 ; 12 ; 4 ; 3]
+result = [3 ; 6 ; 9]
