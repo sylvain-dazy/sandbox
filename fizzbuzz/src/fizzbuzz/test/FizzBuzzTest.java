@@ -10,6 +10,7 @@ import fizzbuzz.FizzBuzz;
 class FizzBuzzTest {
 
 	private static FizzBuzz fizzBuzz;
+	
 	@BeforeAll
 	public static void init() {
 		fizzBuzz = new FizzBuzz();

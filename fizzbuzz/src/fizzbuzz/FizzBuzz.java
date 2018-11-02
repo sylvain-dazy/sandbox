@@ -2,6 +2,14 @@ package fizzbuzz;
 
 public class FizzBuzz {
 
+	/**
+	 * generate the fizzbuzz sequence from first to last
+	 * 
+	 * @param first
+	 * @param last
+	 * @return the generated string representing the fizzbuzz sequence.
+	 * 
+	 */
 	public String generate(Integer first, Integer last) {
 
 		if (last < first) {
