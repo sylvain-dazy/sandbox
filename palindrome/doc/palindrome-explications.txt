@@ -1,0 +1,12 @@
+ ------------
+| Palindrome |
+ ------------
+
+ A palindrome is a word that can be read from left to right and vice versa.
+ Create a method that return true if a word w is a palindrome and return false otherwise.
+
+example:
+
+Palindrome.isPalindrome(word = "non") = true
+Palindrome.isPalindrome(word = "") = true
+Palindrome.isPalindrome(word = "faux") = false
