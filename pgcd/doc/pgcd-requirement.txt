@@ -1,0 +1,13 @@
+PGCD
+----
+
+In French: Plus Grand Commun Diviseur.
+
+Determine the Greatest Common Divisor of 2 numbers a and b.
+
+E.G.:
+pgcd(2, 4) = 2
+pgcd(1, 2) = 1
+pgcd(1, 1) = 1
+pgcd(5, 5) = 5
+pgcd(12, 15) = 3
