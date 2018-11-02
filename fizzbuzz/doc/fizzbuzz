@@ -1,0 +1,26 @@
+fizzbuzz
+--------
+
+Generate a String containing numbers from n_0 to N (included) using the following rules:
+* if the number is a multiple of 3  then display "fizz"
+* if the number is a multiple of 5  then display "buzz"
+* if the number is a multiple of 15 then display "fizzbuzz"
+* Others numbers are display normally
+Numbers will be separate by " | "
+
+Example from 1 to 15:
+   1
+   2
+   fizz
+   4
+   buzz
+   fizz
+   7
+   8
+   fizz
+   buzz
+   11
+   fizz
+   13
+   14
+   fizzbuzz
