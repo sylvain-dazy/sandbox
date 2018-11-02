@@ -72,4 +72,13 @@ class PgcdTest {
 	public void pgcd32And72Is8() {
 		assertEquals(8, Pgcd.computePgcd(32, 72));
 	}
+	
+	@Test
+	public void pgcdBigCase() {
+		final int prime = 53;
+		final int a = prime * 7;
+		final int b = prime * 11;
+		
+		assertEquals(53, Pgcd.computePgcd(a, b));
+	}
 }
